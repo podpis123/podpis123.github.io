@@ -4,13 +4,23 @@
 
 ### Git
 
+`git clone https://github.com/podpis123/podpis123.git`
+
 ### Ansible
+
+Natavení virtuálního stroje, kde běží aplikace
 
 ### Nginx
 
+Webový server
+
 ### Email
 
+Hosting u active24
+
 ### Backup
+
+rsync
 
 ## Programování
 
@@ -22,16 +32,16 @@
 * [Nginx resources](https://www.nginx.com/resources/wiki/start/topics/examples/xsendfile/)
 
 ### Django
-* https://docs.djangoproject.com/en/4.1/
+* [Django project documentation](https://docs.djangoproject.com/en/4.1/)
 
 ## Podepisování
 
 ### BankID
-* https://developer.bankid.cz/
-* https://github.com/BankovniIdentita/BankID-examples/tree/master/curl
+* [Developerský portál](https://developer.bankid.cz/)
+* [Github oficiální příklady](https://github.com/BankovniIdentita/BankID-examples/tree/master/curl)
 
 ### WebCrypto API
-* https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API
+* [Developer Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 
 ## Dokumentace
 
