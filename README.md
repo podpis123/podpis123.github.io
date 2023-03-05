@@ -4,7 +4,9 @@
 
 ### Git
 
-`git clone https://github.com/podpis123/podpis123.git`
+```
+git clone https://github.com/podpis123/podpis123.git
+```
 
 ### Ansible
 
