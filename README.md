@@ -1,5 +1,19 @@
 # Podpisovací webový porál
 
+```mermaid
+sequenceDiagram
+    actor U as Uživatel
+    participant P as Podpis123
+    participant B as BankID
+    U ->> P: Nahrát PDF
+    U ->> P: Podepsat PDF
+    P ->> B: Ověřit uživatele
+    B ->> U: Přihlásit uživatele
+    U ->> B: Podepsat PDF
+    B ->> P: Podepsané PDF
+    P ->> U: Podepsané PDF
+```
+
 ## Správa
 
 ### Git
