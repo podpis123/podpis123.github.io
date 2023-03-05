@@ -17,9 +17,9 @@
 ### API
 
 ### Správa souborů
-* https://dev.to/joshwizzy/how-to-serve-private-media-files-with-django-41e0
-* https://blog.horejsek.com/nginx-x-accel-explained/
-* https://www.nginx.com/resources/wiki/start/topics/examples/xsendfile/
+* [How to serve private media files with Django](https://dev.to/joshwizzy/how-to-serve-private-media-files-with-django-41e0)
+* [Nginx x-accel explained](https://blog.horejsek.com/nginx-x-accel-explained/)
+* [Nginx resources](https://www.nginx.com/resources/wiki/start/topics/examples/xsendfile/)
 
 ### Django
 * https://docs.djangoproject.com/en/4.1/
